@@ -1,4 +1,4 @@
-# Baccarat WEb
+# Baccarat WEB
 
 ## หน้าที่ต้องแก้ไข function/database.php
 ```php
