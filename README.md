@@ -11,5 +11,5 @@ $engine->exec("set names utf8");
   
 # Support Me :D
 support this project by make a donation to project developer.<br>
-สนับสนุนโปรเจคได้โดยการโดเนทในคนทำ ก<br>
+สนับสนุนโปรเจคได้โดยการโดเนท<br>
 [Wallet (0908262256)]( https://www.facebook.com/BugErr0rJubJub Dev "บั๊คเออเร่อ จุ๊บ จุ๊บ")<br>
